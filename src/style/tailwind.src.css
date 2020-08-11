@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.left--56 {
+  left: -14rem;
+}
